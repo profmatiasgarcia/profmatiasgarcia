@@ -1,3 +1,4 @@
+ ![alt text](https://avatars.githubusercontent.com/u/54009386?s=460&u=aa5972dd5f0ec07fae21a8e46b34d1e29d07b39e&v=4)
 - 👋 Hola, soy Matias Garcia de Buenos Aires, Argentina.
 - Profesor y Técnico en Informática Aplicada, Licenciado en Tecnología Educativa por la Universidad Tecnológica Nacional. 
 - 👀 Aquí encontrarás los ejemplos de codigo de distintos lenguajes que suelo utilizar en clase y otros proyectos interesantes para ver.
